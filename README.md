@@ -8,4 +8,4 @@ replace LControl with ur crouch key
 
 Look up, hold your crouch key, and click ur bind.
 
-![](https://i.imgur.com/n5w5kNz.mp4)
+![Preview](https://i.imgur.com/n5w5kNz.mp4)
